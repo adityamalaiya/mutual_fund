@@ -1,0 +1,2112 @@
+[
+  {
+    "rebalance_date": "2019-01-01",
+    "top5": [
+      [
+        "Axis Flexi Cap Fund",
+        9.58
+      ],
+      [
+        "UTI - Flexi Cap Fund.",
+        5.07
+      ],
+      [
+        "Canara Robeco Flexi Cap Fund",
+        2.44
+      ],
+      [
+        "Kotak Flexicap Fund",
+        1.09
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        0.58
+      ]
+    ],
+    "bought_funds": [
+      "Axis Flexi Cap Fund",
+      "UTI - Flexi Cap Fund.",
+      "Canara Robeco Flexi Cap Fund",
+      "Kotak Flexicap Fund",
+      "Parag Parikh Flexi Cap Fund"
+    ],
+    "sold_funds": [],
+    "pl_report": [],
+    "portfolio_value": 1000000.0,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "CASH",
+        "units": "",
+        "nav": "",
+        "value": 1000000
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2019-04-01",
+    "top5": [
+      [
+        "HDFC Flexi Cap Fund",
+        16.59
+      ],
+      [
+        "Axis Flexi Cap Fund",
+        15.26
+      ],
+      [
+        "Canara Robeco Flexi Cap Fund",
+        14.01
+      ],
+      [
+        "Kotak Flexicap Fund",
+        12.93
+      ],
+      [
+        "UTI - Flexi Cap Fund.",
+        12.87
+      ]
+    ],
+    "bought_funds": [
+      "HDFC Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Parag Parikh Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 8284.626632589236,
+        "buy_nav": 24.1411,
+        "buy_date": "2019-01-01 00:00:00",
+        "sell_nav": 25.71,
+        "sell_date": "2019-04-01 00:00:00",
+        "profit_loss": 12997.750723869245
+      }
+    ],
+    "portfolio_value": 1061957.89,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Axis Flexi Cap Fund",
+        "units": 18018.018018018018,
+        "nav": 11.63,
+        "value": 209549.54954954956
+      },
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1432.8371895758228,
+        "nav": 147.9306,
+        "value": 211960.4651562652
+      },
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1527.7671682835537,
+        "nav": 140.11,
+        "value": 214055.45794820873
+      },
+      {
+        "fund": "Kotak Flexicap Fund",
+        "units": 5644.615037254459,
+        "nav": 37.805,
+        "value": 213394.67148340482
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 8284.626632589236,
+        "nav": 25.71,
+        "value": 212997.75072386925
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2019-07-01",
+    "top5": [
+      [
+        "HDFC Flexi Cap Fund",
+        19.27
+      ],
+      [
+        "Kotak Flexicap Fund",
+        12.27
+      ],
+      [
+        "Axis Flexi Cap Fund",
+        12.16
+      ],
+      [
+        "Canara Robeco Flexi Cap Fund",
+        11.65
+      ],
+      [
+        "LIC MF Flexi Cap Fund",
+        11.58
+      ]
+    ],
+    "bought_funds": [
+      "LIC MF Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "UTI - Flexi Cap Fund."
+    ],
+    "pl_report": [
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1435.751487334328,
+        "buy_nav": 139.5832,
+        "buy_date": "2019-01-01 00:00:00",
+        "sell_nav": 146.587,
+        "sell_date": "2019-07-01 00:00:00",
+        "profit_loss": 10055.716266992144
+      }
+    ],
+    "portfolio_value": 1087806.83,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 295.5227076912132,
+        "nav": 736.955,
+        "value": 217786.93704657804
+      },
+      {
+        "fund": "Axis Flexi Cap Fund",
+        "units": 18262.38856167322,
+        "nav": 12.27,
+        "value": 224079.50765173038
+      },
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1515.8916492203234,
+        "nav": 143.37,
+        "value": 217333.3857487178
+      },
+      {
+        "fund": "Kotak Flexicap Fund",
+        "units": 5618.081708034903,
+        "nav": 38.829,
+        "value": 218144.49464128728
+      },
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1435.751487334328,
+        "nav": 146.587,
+        "value": 210462.5032738771
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2019-10-01",
+    "top5": [
+      [
+        "Axis Flexi Cap Fund",
+        18.33
+      ],
+      [
+        "DSP Flexi Cap Fund",
+        16.14
+      ],
+      [
+        "JM Flexicap Fund",
+        15.69
+      ],
+      [
+        "Tata Flexi Cap Fund",
+        11.53
+      ],
+      [
+        "Navi Flexi Cap Fund",
+        10.38
+      ]
+    ],
+    "bought_funds": [
+      "DSP Flexi Cap Fund",
+      "JM Flexicap Fund",
+      "Tata Flexi Cap Fund",
+      "Navi Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "HDFC Flexi Cap Fund",
+      "LIC MF Flexi Cap Fund",
+      "Kotak Flexicap Fund",
+      "Canara Robeco Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 295.21662200872254,
+        "buy_nav": 718.698,
+        "buy_date": "2019-04-01 00:00:00",
+        "sell_nav": 667.844,
+        "sell_date": "2019-10-01 00:00:00",
+        "profit_loss": -15012.946095631554
+      },
+      {
+        "fund": "LIC MF Flexi Cap Fund",
+        "units": 4353.796053120103,
+        "buy_nav": 49.9705,
+        "buy_date": "2019-07-01 00:00:00",
+        "sell_nav": 50.0904,
+        "sell_date": "2019-10-01 00:00:00",
+        "profit_loss": 522.0201467691057
+      },
+      {
+        "fund": "Kotak Flexicap Fund",
+        "units": 5603.063835598086,
+        "buy_nav": 35.432,
+        "buy_date": "2019-01-01 00:00:00",
+        "sell_nav": 37.613,
+        "sell_date": "2019-10-01 00:00:00",
+        "profit_loss": 12220.282225439412
+      },
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1517.4818000449056,
+        "buy_nav": 130.91,
+        "buy_date": "2019-01-01 00:00:00",
+        "sell_nav": 139.39,
+        "sell_date": "2019-10-01 00:00:00",
+        "profit_loss": 12868.245664380784
+      }
+    ],
+    "portfolio_value": 1063052.25,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 295.21662200872254,
+        "nav": 667.844,
+        "value": 197158.64970879332
+      },
+      {
+        "fund": "Kotak Flexicap Fund",
+        "units": 5603.063835598086,
+        "nav": 37.613,
+        "value": 210748.0400483508
+      },
+      {
+        "fund": "Axis Flexi Cap Fund",
+        "units": 17731.162646490473,
+        "nav": 12.72,
+        "value": 225540.38886335882
+      },
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1517.4818000449056,
+        "nav": 139.39,
+        "value": 211521.78810825938
+      },
+      {
+        "fund": "LIC MF Flexi Cap Fund",
+        "units": 4353.796053120103,
+        "nav": 50.0904,
+        "value": 218083.38581920724
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2020-01-01",
+    "top5": [
+      [
+        "Axis Flexi Cap Fund",
+        18.74
+      ],
+      [
+        "DSP Flexi Cap Fund",
+        17.74
+      ],
+      [
+        "JM Flexicap Fund",
+        17.24
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        15.16
+      ],
+      [
+        "Navi Flexi Cap Fund",
+        15.05
+      ]
+    ],
+    "bought_funds": [
+      "Parag Parikh Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Tata Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Tata Flexi Cap Fund",
+        "units": 19363.07631095917,
+        "buy_nav": 10.9802,
+        "buy_date": "2019-10-01 00:00:00",
+        "sell_nav": 11.5272,
+        "sell_date": "2020-01-01 00:00:00",
+        "profit_loss": 10591.60274209468
+      }
+    ],
+    "portfolio_value": 1114137.02,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Axis Flexi Cap Fund",
+        "units": 16714.658058930338,
+        "nav": 13.18,
+        "value": 220299.19321670185
+      },
+      {
+        "fund": "DSP Flexi Cap Fund",
+        "units": 4975.322362333417,
+        "nav": 44.854,
+        "value": 223163.10924010308
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 5861.057599003005,
+        "nav": 37.6245,
+        "value": 220519.36163368853
+      },
+      {
+        "fund": "Tata Flexi Cap Fund",
+        "units": 19363.07631095917,
+        "nav": 11.5272,
+        "value": 223202.05325168857
+      },
+      {
+        "fund": "Navi Flexi Cap Fund",
+        "units": 19615.500697450287,
+        "nav": 11.5701,
+        "value": 226953.30461956956
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2020-04-01",
+    "top5": [
+      [
+        "Axis Flexi Cap Fund",
+        -10.58
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        -16.29
+      ],
+      [
+        "JM Flexicap Fund",
+        -18.34
+      ],
+      [
+        "Canara Robeco Flexi Cap Fund",
+        -18.44
+      ],
+      [
+        "LIC MF Flexi Cap Fund",
+        -18.45
+      ]
+    ],
+    "bought_funds": [
+      "Canara Robeco Flexi Cap Fund",
+      "LIC MF Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Navi Flexi Cap Fund",
+      "DSP Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Navi Flexi Cap Fund",
+        "units": 19258.90047556636,
+        "buy_nav": 10.8389,
+        "buy_date": "2019-10-01 00:00:00",
+        "sell_nav": 8.0346,
+        "sell_date": "2020-04-01 00:00:00",
+        "profit_loss": -54007.734603630764
+      },
+      {
+        "fund": "DSP Flexi Cap Fund",
+        "units": 4967.8379719166705,
+        "buy_nav": 42.733,
+        "buy_date": "2019-10-01 00:00:00",
+        "sell_nav": 33.255,
+        "sell_date": "2020-04-01 00:00:00",
+        "profit_loss": -47085.168297826174
+      }
+    ],
+    "portfolio_value": 829434.11,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Axis Flexi Cap Fund",
+        "units": 16906.47984767453,
+        "nav": 10.4,
+        "value": 175827.39041581514
+      },
+      {
+        "fund": "DSP Flexi Cap Fund",
+        "units": 4967.8379719166705,
+        "nav": 33.255,
+        "value": 165205.45175608888
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 5922.401743341448,
+        "nav": 27.2145,
+        "value": 161175.20224416585
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 8014.855311251441,
+        "nav": 21.5211,
+        "value": 172488.50263897338
+      },
+      {
+        "fund": "Navi Flexi Cap Fund",
+        "units": 19258.90047556636,
+        "nav": 8.0346,
+        "value": 154737.56176098547
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2020-07-01",
+    "top5": [
+      [
+        "Parag Parikh Flexi Cap Fund",
+        7.4
+      ],
+      [
+        "PGIM India Flexi Cap Fund",
+        -0.89
+      ],
+      [
+        "Axis Flexi Cap Fund",
+        -2.77
+      ],
+      [
+        "Quant Flexi Cap Fund",
+        -3.0
+      ],
+      [
+        "UTI - Flexi Cap Fund.",
+        -3.36
+      ]
+    ],
+    "bought_funds": [
+      "PGIM India Flexi Cap Fund",
+      "Quant Flexi Cap Fund",
+      "UTI - Flexi Cap Fund."
+    ],
+    "sold_funds": [
+      "JM Flexicap Fund",
+      "LIC MF Flexi Cap Fund",
+      "Canara Robeco Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6095.530756148588,
+        "buy_nav": 36.2751,
+        "buy_date": "2019-10-01 00:00:00",
+        "sell_nav": 32.3917,
+        "sell_date": "2020-07-01 00:00:00",
+        "profit_loss": -23671.38413842744
+      },
+      {
+        "fund": "LIC MF Flexi Cap Fund",
+        "units": 4193.911689863674,
+        "buy_nav": 39.5542,
+        "buy_date": "2020-04-01 00:00:00",
+        "sell_nav": 46.7073,
+        "sell_date": "2020-07-01 00:00:00",
+        "profit_loss": 29999.469708763823
+      },
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1451.5822695415275,
+        "buy_nav": 114.28,
+        "buy_date": "2020-04-01 00:00:00",
+        "sell_nav": 138.11,
+        "sell_date": "2020-07-01 00:00:00",
+        "profit_loss": 34591.20548317462
+      }
+    ],
+    "portfolio_value": 1001271.38,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Axis Flexi Cap Fund",
+        "units": 15950.655938769783,
+        "nav": 11.93,
+        "value": 190291.3253495235
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7708.101433625871,
+        "nav": 28.1744,
+        "value": 217171.13303154873
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6095.530756148588,
+        "nav": 32.3917,
+        "value": 197444.60359393823
+      },
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1451.5822695415275,
+        "nav": 138.11,
+        "value": 200478.02724638037
+      },
+      {
+        "fund": "LIC MF Flexi Cap Fund",
+        "units": 4193.911689863674,
+        "nav": 46.7073,
+        "value": 195886.29147196957
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2020-10-01",
+    "top5": [
+      [
+        "Quant Flexi Cap Fund",
+        30.59
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        25.72
+      ],
+      [
+        "PGIM India Flexi Cap Fund",
+        19.53
+      ],
+      [
+        "UTI - Flexi Cap Fund.",
+        13.21
+      ],
+      [
+        "Canara Robeco Flexi Cap Fund",
+        10.78
+      ]
+    ],
+    "bought_funds": [
+      "Canara Robeco Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Axis Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Axis Flexi Cap Fund",
+        "units": 16785.773356133453,
+        "buy_nav": 11.1,
+        "buy_date": "2019-01-01 00:00:00",
+        "sell_nav": 12.9,
+        "sell_date": "2020-10-01 00:00:00",
+        "profit_loss": 30214.392041040228
+      }
+    ],
+    "portfolio_value": 1165021.34,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7107.6678168362805,
+        "nav": 32.9793,
+        "value": 234405.90923178877
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13887.259094221365,
+        "nav": 16.71,
+        "value": 232056.099464439
+      },
+      {
+        "fund": "Axis Flexi Cap Fund",
+        "units": 16785.773356133453,
+        "nav": 12.9,
+        "value": 216536.47629412156
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 7703.450461953734,
+        "nav": 32.5691,
+        "value": 250894.44844041736
+      },
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1413.5602614778084,
+        "nav": 163.508,
+        "value": 231128.4112337135
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2021-01-01",
+    "top5": [
+      [
+        "Quant Flexi Cap Fund",
+        50.17
+      ],
+      [
+        "PGIM India Flexi Cap Fund",
+        39.45
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        33.47
+      ],
+      [
+        "UTI - Flexi Cap Fund.",
+        33.0
+      ],
+      [
+        "Canara Robeco Flexi Cap Fund",
+        24.03
+      ]
+    ],
+    "bought_funds": [],
+    "sold_funds": [],
+    "pl_report": [],
+    "portfolio_value": 1404365.64,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 7154.151294720949,
+        "nav": 39.0482,
+        "value": 279356.7305865226
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7065.167208912743,
+        "nav": 37.1077,
+        "value": 262172.1052381714
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13944.001731471935,
+        "nav": 20.68,
+        "value": 288361.9558068396
+      },
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1425.032835903418,
+        "nav": 208.5648,
+        "value": 297211.68841362913
+      },
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1508.9972730580666,
+        "nav": 183.74,
+        "value": 277263.1589516892
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2021-04-01",
+    "top5": [
+      [
+        "Quant Flexi Cap Fund",
+        118.02
+      ],
+      [
+        "PGIM India Flexi Cap Fund",
+        106.68
+      ],
+      [
+        "Franklin India Flexi Cap Fund",
+        95.65
+      ],
+      [
+        "UTI - Flexi Cap Fund.",
+        91.04
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        87.7
+      ]
+    ],
+    "bought_funds": [
+      "Franklin India Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Canara Robeco Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1528.6444312581389,
+        "buy_nav": 154.41,
+        "buy_date": "2020-10-01 00:00:00",
+        "sell_nav": 197.27,
+        "sell_date": "2021-04-01 00:00:00",
+        "profit_loss": 65517.70032372385
+      }
+    ],
+    "portfolio_value": 1521765.04,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 7192.985279715082,
+        "nav": 42.8113,
+        "value": 307941.0507054663
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13581.872717571105,
+        "nav": 22.59,
+        "value": 306814.50468993123
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7569.133301157723,
+        "nav": 40.3943,
+        "value": 305749.8413069554
+      },
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1346.6947816667553,
+        "nav": 222.5478,
+        "value": 299703.9609314167
+      },
+      {
+        "fund": "Canara Robeco Flexi Cap Fund",
+        "units": 1528.6444312581389,
+        "nav": 197.27,
+        "value": 301555.68695429305
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2021-07-01",
+    "top5": [
+      [
+        "Quant Flexi Cap Fund",
+        112.97
+      ],
+      [
+        "PGIM India Flexi Cap Fund",
+        79.26
+      ],
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        76.69
+      ],
+      [
+        "UTI - Flexi Cap Fund.",
+        70.49
+      ],
+      [
+        "Franklin India Flexi Cap Fund",
+        66.05
+      ]
+    ],
+    "bought_funds": [
+      "BANK OF INDIA FLEXI CAP FUND"
+    ],
+    "sold_funds": [
+      "Parag Parikh Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7534.553363162933,
+        "buy_nav": 27.8018,
+        "buy_date": "2020-01-01 00:00:00",
+        "sell_nav": 45.4065,
+        "sell_date": "2021-07-01 00:00:00",
+        "profit_loss": 132643.5515924745
+      }
+    ],
+    "portfolio_value": 1745319.62,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 7109.174655233839,
+        "nav": 55.3629,
+        "value": 393584.52552024554
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13472.90876129316,
+        "nav": 25.85,
+        "value": 348274.6914794282
+      },
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 363.3750346896603,
+        "nav": 910.9821,
+        "value": 331028.1521891596
+      },
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1367.5848915047127,
+        "nav": 241.5313,
+        "value": 330314.5567054922
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7534.553363162933,
+        "nav": 45.4065,
+        "value": 342117.69728445774
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2021-10-01",
+    "top5": [
+      [
+        "Quant Flexi Cap Fund",
+        88.49
+      ],
+      [
+        "PGIM India Flexi Cap Fund",
+        75.16
+      ],
+      [
+        "Franklin India Flexi Cap Fund",
+        74.5
+      ],
+      [
+        "HDFC Flexi Cap Fund",
+        74.08
+      ],
+      [
+        "UTI - Flexi Cap Fund.",
+        67.95
+      ]
+    ],
+    "bought_funds": [
+      "HDFC Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "BANK OF INDIA FLEXI CAP FUND"
+    ],
+    "pl_report": [
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 19676.658660414694,
+        "buy_nav": 17.74,
+        "buy_date": "2021-07-01 00:00:00",
+        "sell_nav": 19.5,
+        "sell_date": "2021-10-01 00:00:00",
+        "profit_loss": 34630.919242329895
+      }
+    ],
+    "portfolio_value": 1955195.37,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 6305.015175067719,
+        "nav": 61.3884,
+        "value": 387054.7935731271
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13503.440024594067,
+        "nav": 29.27,
+        "value": 395245.68951986835
+      },
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 19676.658660414694,
+        "nav": 19.5,
+        "value": 383694.84387808654
+      },
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1445.2119648085225,
+        "nav": 274.6174,
+        "value": 396880.3522246079
+      },
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 383.1731980636685,
+        "nav": 1023.8704,
+        "value": 392319.6955707275
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2022-01-01",
+    "top5": [
+      [
+        "Quant Flexi Cap Fund",
+        57.25
+      ],
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        47.78
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        46.76
+      ],
+      [
+        "PGIM India Flexi Cap Fund",
+        45.6
+      ],
+      [
+        "Franklin India Flexi Cap Fund",
+        40.59
+      ]
+    ],
+    "bought_funds": [
+      "BANK OF INDIA FLEXI CAP FUND",
+      "Parag Parikh Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "UTI - Flexi Cap Fund.",
+      "HDFC Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1423.9413633414472,
+        "buy_nav": 141.6666,
+        "buy_date": "2020-07-01 00:00:00",
+        "sell_nav": 279.8524,
+        "sell_date": "2022-01-01 00:00:00",
+        "profit_loss": 196768.47644642854
+      },
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 374.440501942667,
+        "buy_nav": 1044.329,
+        "buy_date": "2021-10-01 00:00:00",
+        "sell_nav": 1041.065,
+        "sell_date": "2022-01-01 00:00:00",
+        "profit_loss": -1222.1737983408264
+      }
+    ],
+    "portfolio_value": 1979473.96,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 6369.918013065718,
+        "nav": 61.404,
+        "value": 391138.44567428733
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13359.722410429911,
+        "nav": 30.11,
+        "value": 402261.2417780446
+      },
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 381.92243369208006,
+        "nav": 1041.4784,
+        "value": 397763.96516573365
+      },
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 374.440501942667,
+        "nav": 1041.065,
+        "value": 389816.9011549427
+      },
+      {
+        "fund": "UTI - Flexi Cap Fund.",
+        "units": 1423.9413633414472,
+        "nav": 279.8524,
+        "value": 398493.407990376
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2022-04-01",
+    "top5": [
+      [
+        "Quant Flexi Cap Fund",
+        46.99
+      ],
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        33.11
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        30.86
+      ],
+      [
+        "PGIM India Flexi Cap Fund",
+        28.38
+      ],
+      [
+        "HDFC Flexi Cap Fund",
+        28.06
+      ]
+    ],
+    "bought_funds": [
+      "HDFC Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Franklin India Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 380.12770341917496,
+        "buy_nav": 837.5727,
+        "buy_date": "2021-04-01 00:00:00",
+        "sell_nav": 1045.2554,
+        "sell_date": "2022-04-01 00:00:00",
+        "profit_loss": 78945.94779089346
+      }
+    ],
+    "portfolio_value": 1956113.75,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 6447.377896434708,
+        "nav": 62.9304,
+        "value": 405736.06997379474
+      },
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 19162.38104320798,
+        "nav": 20.22,
+        "value": 387463.34469366533
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7269.71363952611,
+        "nav": 52.8609,
+        "value": 384283.6057276257
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13148.282708491426,
+        "nav": 29.0,
+        "value": 381300.19854625134
+      },
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 380.12770341917496,
+        "nav": 1045.2554,
+        "value": 397330.5346884911
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2022-07-01",
+    "top5": [
+      [
+        "HDFC Flexi Cap Fund",
+        9.0
+      ],
+      [
+        "JM Flexicap Fund",
+        5.86
+      ],
+      [
+        "Franklin India Flexi Cap Fund",
+        3.24
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        3.09
+      ],
+      [
+        "Navi Flexi Cap Fund",
+        1.45
+      ]
+    ],
+    "bought_funds": [
+      "JM Flexicap Fund",
+      "Franklin India Flexi Cap Fund",
+      "Navi Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "BANK OF INDIA FLEXI CAP FUND",
+      "Quant Flexi Cap Fund",
+      "PGIM India Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 19348.306168445386,
+        "buy_nav": 20.66,
+        "buy_date": "2022-01-01 00:00:00",
+        "sell_nav": 17.55,
+        "sell_date": "2022-07-01 00:00:00",
+        "profit_loss": -60173.23218386514
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 6216.752964004133,
+        "buy_nav": 25.9954,
+        "buy_date": "2020-07-01 00:00:00",
+        "sell_nav": 55.4461,
+        "sell_date": "2022-07-01 00:00:00",
+        "profit_loss": 183087.72651699654
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13490.439680205713,
+        "buy_nav": 14.42,
+        "buy_date": "2020-07-01 00:00:00",
+        "sell_nav": 25.17,
+        "sell_date": "2022-07-01 00:00:00",
+        "profit_loss": 145022.22656221144
+      }
+    ],
+    "portfolio_value": 1734633.67,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 6216.752964004133,
+        "nav": 55.4461,
+        "value": 344694.70651746955
+      },
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 19348.306168445386,
+        "nav": 17.55,
+        "value": 339562.77325621655
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7400.9854301755295,
+        "nav": 46.8073,
+        "value": 346420.14532585506
+      },
+      {
+        "fund": "PGIM India Flexi Cap Fund",
+        "units": 13490.439680205713,
+        "nav": 25.17,
+        "value": 339554.3667507778
+      },
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 354.7948945208286,
+        "nav": 1027.077,
+        "value": 364401.6758797691
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2022-10-01",
+    "top5": [
+      [
+        "HDFC Flexi Cap Fund",
+        9.57
+      ],
+      [
+        "ICICI Prudential Flexicap fund-",
+        7.28
+      ],
+      [
+        "Quant Flexi Cap Fund",
+        6.06
+      ],
+      [
+        "BANDHAN Flexi Cap Fund",
+        2.71
+      ],
+      [
+        "Franklin India Flexi Cap Fund",
+        2.47
+      ]
+    ],
+    "bought_funds": [
+      "ICICI Prudential Flexicap fund-",
+      "Quant Flexi Cap Fund",
+      "BANDHAN Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Navi Flexi Cap Fund",
+      "JM Flexicap Fund",
+      "Parag Parikh Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Navi Flexi Cap Fund",
+        "units": 22659.843342739976,
+        "buy_nav": 15.3102,
+        "buy_date": "2022-07-01 00:00:00",
+        "sell_nav": 17.1618,
+        "sell_date": "2022-10-01 00:00:00",
+        "profit_loss": 41956.96593341733
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6665.860962392715,
+        "buy_nav": 52.0453,
+        "buy_date": "2022-07-01 00:00:00",
+        "sell_nav": 57.402,
+        "sell_date": "2022-10-01 00:00:00",
+        "profit_loss": 35707.01741724908
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7411.8082766153475,
+        "buy_nav": 54.4581,
+        "buy_date": "2022-01-01 00:00:00",
+        "sell_nav": 49.892,
+        "sell_date": "2022-10-01 00:00:00",
+        "profit_loss": -33843.05777185333
+      }
+    ],
+    "portfolio_value": 1914860.54,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 337.7806469680633,
+        "nav": 1144.296,
+        "value": 386521.043202967
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6665.860962392715,
+        "nav": 57.402,
+        "value": 382633.75096326665
+      },
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 368.8854516005328,
+        "nav": 1049.1932,
+        "value": 387032.1073982081
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7411.8082766153475,
+        "nav": 49.892,
+        "value": 369789.93853689294
+      },
+      {
+        "fund": "Navi Flexi Cap Fund",
+        "units": 22659.843342739976,
+        "nav": 17.1618,
+        "value": 388883.69947943493
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2023-01-01",
+    "top5": [
+      [
+        "HDFC Flexi Cap Fund",
+        19.09
+      ],
+      [
+        "Quant Flexi Cap Fund",
+        12.37
+      ],
+      [
+        "ICICI Prudential Flexicap fund-",
+        10.38
+      ],
+      [
+        "JM Flexicap Fund",
+        8.69
+      ],
+      [
+        "Franklin India Flexi Cap Fund",
+        6.1
+      ]
+    ],
+    "bought_funds": [
+      "JM Flexicap Fund"
+    ],
+    "sold_funds": [
+      "BANDHAN Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "BANDHAN Flexi Cap Fund",
+        "units": 2618.5410854824754,
+        "buy_nav": 146.254,
+        "buy_date": "2022-10-01 00:00:00",
+        "sell_nav": 148.061,
+        "sell_date": "2023-01-01 00:00:00",
+        "profit_loss": 4731.703741466876
+      }
+    ],
+    "portfolio_value": 2008479.99,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 334.6792332719453,
+        "nav": 1239.765,
+        "value": 414923.5996373933
+      },
+      {
+        "fund": "ICICI Prudential Flexicap fund-",
+        "units": 33301.92242749164,
+        "nav": 11.91,
+        "value": 396625.8961114255
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 5882.096204867811,
+        "nav": 69.0027,
+        "value": 405880.51979563216
+      },
+      {
+        "fund": "BANDHAN Flexi Cap Fund",
+        "units": 2618.5410854824754,
+        "nav": 148.061,
+        "value": 387703.8116576208
+      },
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 365.0158120698399,
+        "nav": 1105.0101,
+        "value": 403346.158996875
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2023-04-01",
+    "top5": [
+      [
+        "HDFC Flexi Cap Fund",
+        9.53
+      ],
+      [
+        "ICICI Prudential Flexicap fund-",
+        5.25
+      ],
+      [
+        "JM Flexicap Fund",
+        4.9
+      ],
+      [
+        "Kotak Flexicap Fund",
+        2.02
+      ],
+      [
+        "Quant Flexi Cap Fund",
+        1.62
+      ]
+    ],
+    "bought_funds": [
+      "Kotak Flexicap Fund"
+    ],
+    "sold_funds": [
+      "Franklin India Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 363.52246666323623,
+        "buy_nav": 940.4728,
+        "buy_date": "2022-07-01 00:00:00",
+        "sell_nav": 1056.2954,
+        "sell_date": "2023-04-01 00:00:00",
+        "profit_loss": 42104.117247349335
+      }
+    ],
+    "portfolio_value": 1922445.59,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 324.00978995195806,
+        "nav": 1207.796,
+        "value": 391337.7282648152
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 5821.453323417624,
+        "nav": 63.9487,
+        "value": 372274.37214323663
+      },
+      {
+        "fund": "ICICI Prudential Flexicap fund-",
+        "units": 33727.62361375225,
+        "nav": 11.42,
+        "value": 385169.4616690507
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6538.861559995334,
+        "nav": 59.594,
+        "value": 389676.91580636194
+      },
+      {
+        "fund": "Franklin India Flexi Cap Fund",
+        "units": 363.52246666323623,
+        "nav": 1056.2954,
+        "value": 383987.1093330298
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2023-07-01",
+    "top5": [
+      [
+        "JM Flexicap Fund",
+        32.92
+      ],
+      [
+        "HDFC Flexi Cap Fund",
+        31.74
+      ],
+      [
+        "Quant Flexi Cap Fund",
+        29.43
+      ],
+      [
+        "Mahindra Manulife Flexi Cap Fund",
+        28.89
+      ],
+      [
+        "DSP Flexi Cap Fund",
+        28.72
+      ]
+    ],
+    "bought_funds": [
+      "Mahindra Manulife Flexi Cap Fund",
+      "DSP Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Kotak Flexicap Fund",
+      "ICICI Prudential Flexicap fund-"
+    ],
+    "pl_report": [
+      {
+        "fund": "Kotak Flexicap Fund",
+        "units": 6567.075176663571,
+        "buy_nav": 58.548,
+        "buy_date": "2023-04-01 00:00:00",
+        "sell_nav": 64.732,
+        "sell_date": "2023-07-01 00:00:00",
+        "profit_loss": 40610.79289248751
+      },
+      {
+        "fund": "ICICI Prudential Flexicap fund-",
+        "units": 33668.04881289832,
+        "buy_nav": 11.5,
+        "buy_date": "2022-10-01 00:00:00",
+        "sell_nav": 13.12,
+        "sell_date": "2023-07-01 00:00:00",
+        "profit_loss": 54542.239076895254
+      }
+    ],
+    "portfolio_value": 2175372.13,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 318.3394525592888,
+        "nav": 1353.096,
+        "value": 430743.83990016347
+      },
+      {
+        "fund": "ICICI Prudential Flexicap fund-",
+        "units": 33668.04881289832,
+        "nav": 13.12,
+        "value": 441724.8004252259
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6451.809199639205,
+        "nav": 69.1771,
+        "value": 446317.4501843612
+      },
+      {
+        "fund": "Kotak Flexicap Fund",
+        "units": 6567.075176663571,
+        "nav": 64.732,
+        "value": 425099.9103357863
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 6012.461823982329,
+        "nav": 71.7653,
+        "value": 431486.12653663906
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2023-10-01",
+    "top5": [
+      [
+        "JM Flexicap Fund",
+        32.35
+      ],
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        26.42
+      ],
+      [
+        "HDFC Flexi Cap Fund",
+        26.06
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        25.95
+      ],
+      [
+        "Mahindra Manulife Flexi Cap Fund",
+        25.06
+      ]
+    ],
+    "bought_funds": [
+      "BANK OF INDIA FLEXI CAP FUND",
+      "Parag Parikh Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Quant Flexi Cap Fund",
+      "DSP Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 6062.46229691,
+        "buy_nav": 65.1081,
+        "buy_date": "2022-10-01 00:00:00",
+        "sell_nav": 78.5206,
+        "sell_date": "2023-10-01 00:00:00",
+        "profit_loss": 81312.77555730543
+      },
+      {
+        "fund": "DSP Flexi Cap Fund",
+        "units": 5597.82848455309,
+        "buy_nav": 77.722,
+        "buy_date": "2023-07-01 00:00:00",
+        "sell_nav": 83.78,
+        "sell_date": "2023-10-01 00:00:00",
+        "profit_loss": 33911.64495942266
+      }
+    ],
+    "portfolio_value": 2353358.55,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6289.283960681139,
+        "nav": 75.9739,
+        "value": 477821.4307003928
+      },
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 321.5399539104655,
+        "nav": 1442.501,
+        "value": 463821.7050558004
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 6062.46229691,
+        "nav": 78.5206,
+        "value": 476028.17703075137
+      },
+      {
+        "fund": "Mahindra Manulife Flexi Cap Fund",
+        "units": 36269.19858586287,
+        "nav": 12.8677,
+        "value": 466701.1666433076
+      },
+      {
+        "fund": "DSP Flexi Cap Fund",
+        "units": 5597.82848455309,
+        "nav": 83.78,
+        "value": 468986.07043585787
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2024-01-01",
+    "top5": [
+      [
+        "JM Flexicap Fund",
+        42.14
+      ],
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        40.3
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        38.07
+      ],
+      [
+        "Invesco India Flexi Cap Fund",
+        35.55
+      ],
+      [
+        "Nippon India Flexi Cap Fund",
+        34.87
+      ]
+    ],
+    "bought_funds": [
+      "Invesco India Flexi Cap Fund",
+      "Nippon India Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Mahindra Manulife Flexi Cap Fund",
+      "HDFC Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Mahindra Manulife Flexi Cap Fund",
+        "units": 36577.76525511335,
+        "buy_nav": 11.9957,
+        "buy_date": "2023-07-01 00:00:00",
+        "sell_nav": 14.2199,
+        "sell_date": "2024-01-01 00:00:00",
+        "profit_loss": 81356.26548042317
+      },
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 326.28865420074027,
+        "buy_nav": 1102.673,
+        "buy_date": "2022-04-01 00:00:00",
+        "sell_nav": 1630.733,
+        "sell_date": "2024-01-01 00:00:00",
+        "profit_loss": 172299.9867372429
+      }
+    ],
+    "portfolio_value": 2668231.39,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6195.1763694271585,
+        "nav": 87.317,
+        "value": 540944.2150492711
+      },
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 18736.931129507244,
+        "nav": 29.21,
+        "value": 547305.7582929066
+      },
+      {
+        "fund": "HDFC Flexi Cap Fund",
+        "units": 326.28865420074027,
+        "nav": 1630.733,
+        "value": 532089.6759307358
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7489.977911802031,
+        "nav": 70.4621,
+        "value": 527759.5726191859
+      },
+      {
+        "fund": "Mahindra Manulife Flexi Cap Fund",
+        "units": 36577.76525511335,
+        "nav": 14.2199,
+        "value": 520132.16415118636
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2024-04-01",
+    "top5": [
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        65.41
+      ],
+      [
+        "Quant Flexi Cap Fund",
+        62.86
+      ],
+      [
+        "JM Flexicap Fund",
+        61.3
+      ],
+      [
+        "Motilal Oswal Flexi Cap Fund",
+        57.75
+      ],
+      [
+        "ITI Flexi Cap Fund",
+        57.4
+      ]
+    ],
+    "bought_funds": [
+      "Quant Flexi Cap Fund",
+      "Motilal Oswal Flexi Cap Fund",
+      "ITI Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "Invesco India Flexi Cap Fund",
+      "Parag Parikh Flexi Cap Fund",
+      "Nippon India Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "Invesco India Flexi Cap Fund",
+        "units": 36828.590559603676,
+        "buy_nav": 14.49,
+        "buy_date": "2024-01-01 00:00:00",
+        "sell_nav": 15.69,
+        "sell_date": "2024-04-01 00:00:00",
+        "profit_loss": 44194.308671524384
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7573.52218013169,
+        "buy_nav": 62.8402,
+        "buy_date": "2023-10-01 00:00:00",
+        "sell_nav": 75.7331,
+        "sell_date": "2024-04-01 00:00:00",
+        "profit_loss": 97644.66411621979
+      },
+      {
+        "fund": "Nippon India Flexi Cap Fund",
+        "units": 36074.73076149595,
+        "buy_nav": 14.7928,
+        "buy_date": "2024-01-01 00:00:00",
+        "sell_nav": 15.1278,
+        "sell_date": "2024-04-01 00:00:00",
+        "profit_loss": 12085.034805101173
+      }
+    ],
+    "portfolio_value": 2883852.16,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6111.596564342079,
+        "nav": 96.1256,
+        "value": 587480.8867053209
+      },
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 18269.300828779775,
+        "nav": 32.8,
+        "value": 599233.0671839765
+      },
+      {
+        "fund": "Parag Parikh Flexi Cap Fund",
+        "units": 7573.52218013169,
+        "nav": 75.7331,
+        "value": 573566.3126201313
+      },
+      {
+        "fund": "Invesco India Flexi Cap Fund",
+        "units": 36828.590559603676,
+        "nav": 15.69,
+        "value": 577840.5858801816
+      },
+      {
+        "fund": "Nippon India Flexi Cap Fund",
+        "units": 36074.73076149595,
+        "nav": 15.1278,
+        "value": 545731.3120137585
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2024-07-01",
+    "top5": [
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        69.22
+      ],
+      [
+        "JM Flexicap Fund",
+        68.56
+      ],
+      [
+        "Quant Flexi Cap Fund",
+        63.02
+      ],
+      [
+        "Motilal Oswal Flexi Cap Fund",
+        58.07
+      ],
+      [
+        "ITI Flexi Cap Fund",
+        56.61
+      ]
+    ],
+    "bought_funds": [],
+    "sold_funds": [],
+    "pl_report": [],
+    "portfolio_value": 3347589.26,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 17584.464417093714,
+        "nav": 37.82,
+        "value": 665044.4442544843
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 5538.185314805263,
+        "nav": 116.9942,
+        "value": 647935.56035739
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 6000.17511340032,
+        "nav": 116.6036,
+        "value": 699642.0188528856
+      },
+      {
+        "fund": "Motilal Oswal Flexi Cap Fund",
+        "units": 10783.960707587374,
+        "nav": 61.6522,
+        "value": 664854.9023363183
+      },
+      {
+        "fund": "ITI Flexi Cap Fund",
+        "units": 36793.68407868649,
+        "nav": 18.2127,
+        "value": 670112.3300198936
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2024-10-01",
+    "top5": [
+      [
+        "Motilal Oswal Flexi Cap Fund",
+        65.47
+      ],
+      [
+        "JM Flexicap Fund",
+        61.88
+      ],
+      [
+        "NJ Flexi Cap Fund",
+        58.6
+      ],
+      [
+        "Invesco India Flexi Cap Fund",
+        57.47
+      ],
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        57.25
+      ]
+    ],
+    "bought_funds": [
+      "NJ Flexi Cap Fund",
+      "Invesco India Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "ITI Flexi Cap Fund",
+      "Quant Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "ITI Flexi Cap Fund",
+        "units": 36761.04318218574,
+        "buy_nav": 15.6758,
+        "buy_date": "2024-04-01 00:00:00",
+        "sell_nav": 19.3626,
+        "sell_date": "2024-10-01 00:00:00",
+        "profit_loss": 135530.6140040824
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 5722.658483618797,
+        "buy_nav": 104.1443,
+        "buy_date": "2024-04-01 00:00:00",
+        "sell_nav": 121.8989,
+        "sell_date": "2024-10-01 00:00:00",
+        "profit_loss": 101603.51231325827
+      }
+    ],
+    "portfolio_value": 3576670.14,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 17702.745932421847,
+        "nav": 39.5,
+        "value": 699258.464330663
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 5741.8283068806995,
+        "nav": 122.989,
+        "value": 706181.7216349504
+      },
+      {
+        "fund": "Quant Flexi Cap Fund",
+        "units": 5722.658483618797,
+        "nav": 121.8989,
+        "value": 697585.7742287993
+      },
+      {
+        "fund": "Motilal Oswal Flexi Cap Fund",
+        "units": 10859.593837108721,
+        "nav": 70.155,
+        "value": 761854.8056423623
+      },
+      {
+        "fund": "ITI Flexi Cap Fund",
+        "units": 36761.04318218574,
+        "nav": 19.3626,
+        "value": 711789.3747193897
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2025-01-01",
+    "top5": [
+      [
+        "Motilal Oswal Flexi Cap Fund",
+        48.15
+      ],
+      [
+        "Invesco India Flexi Cap Fund",
+        37.34
+      ],
+      [
+        "JM Flexicap Fund",
+        35.49
+      ],
+      [
+        "BANK OF INDIA FLEXI CAP FUND",
+        31.39
+      ],
+      [
+        "Helios Flexi Cap Fund",
+        30.31
+      ]
+    ],
+    "bought_funds": [
+      "Helios Flexi Cap Fund"
+    ],
+    "sold_funds": [
+      "NJ Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "NJ Flexi Cap Fund",
+        "units": 44569.09832468741,
+        "buy_nav": 16.05,
+        "buy_date": "2024-10-01 00:00:00",
+        "sell_nav": 14.11,
+        "sell_date": "2025-01-01 00:00:00",
+        "profit_loss": -86464.05074989363
+      }
+    ],
+    "portfolio_value": 3449600.0,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Motilal Oswal Flexi Cap Fund",
+        "units": 10196.47962527593,
+        "nav": 70.9024,
+        "value": 722954.8769831641
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 5816.243957681036,
+        "nav": 118.308,
+        "value": 688108.1901453281
+      },
+      {
+        "fund": "NJ Flexi Cap Fund",
+        "units": 44569.09832468741,
+        "nav": 14.11,
+        "value": 628869.9773613394
+      },
+      {
+        "fund": "Invesco India Flexi Cap Fund",
+        "units": 35910.342776668316,
+        "nav": 19.9,
+        "value": 714615.8212556995
+      },
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 18109.722230664123,
+        "nav": 38.38,
+        "value": 695051.1392128891
+      }
+    ]
+  },
+  {
+    "rebalance_date": "2025-04-01",
+    "top5": [
+      [
+        "Motilal Oswal Flexi Cap Fund",
+        16.19
+      ],
+      [
+        "HDFC Flexi Cap Fund",
+        13.58
+      ],
+      [
+        "Parag Parikh Flexi Cap Fund",
+        12.19
+      ],
+      [
+        "DSP Flexi Cap Fund",
+        11.55
+      ],
+      [
+        "360 ONE Flexicap Fund",
+        11.26
+      ]
+    ],
+    "bought_funds": [
+      "HDFC Flexi Cap Fund",
+      "Parag Parikh Flexi Cap Fund",
+      "DSP Flexi Cap Fund",
+      "360 ONE Flexicap Fund"
+    ],
+    "sold_funds": [
+      "BANK OF INDIA FLEXI CAP FUND",
+      "Helios Flexi Cap Fund",
+      "JM Flexicap Fund",
+      "Invesco India Flexi Cap Fund"
+    ],
+    "pl_report": [
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 17976.029207704116,
+        "buy_nav": 25.12,
+        "buy_date": "2023-10-01 00:00:00",
+        "sell_nav": 33.9,
+        "sell_date": "2025-04-01 00:00:00",
+        "profit_loss": 157829.5364436421
+      },
+      {
+        "fund": "Helios Flexi Cap Fund",
+        "units": 47482.450171485485,
+        "buy_nav": 14.53,
+        "buy_date": "2025-01-01 00:00:00",
+        "sell_nav": 13.13,
+        "sell_date": "2025-04-01 00:00:00",
+        "profit_loss": -66475.43024007962
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 5831.55831382226,
+        "buy_nav": 61.4321,
+        "buy_date": "2023-01-01 00:00:00",
+        "sell_nav": 102.0803,
+        "sell_date": "2025-04-01 00:00:00",
+        "profit_loss": 237042.34865190997
+      },
+      {
+        "fund": "Invesco India Flexi Cap Fund",
+        "units": 34669.346783501715,
+        "buy_nav": 19.92,
+        "buy_date": "2024-10-01 00:00:00",
+        "sell_nav": 17.39,
+        "sell_date": "2025-04-01 00:00:00",
+        "profit_loss": -87713.44736225938
+      }
+    ],
+    "portfolio_value": 3035690.67,
+    "portfolio_value_breakdown": [
+      {
+        "fund": "Motilal Oswal Flexi Cap Fund",
+        "units": 9730.559205212856,
+        "nav": 62.1415,
+        "value": 604671.5448507346
+      },
+      {
+        "fund": "Invesco India Flexi Cap Fund",
+        "units": 34669.346783501715,
+        "nav": 17.39,
+        "value": 602899.9405650948
+      },
+      {
+        "fund": "JM Flexicap Fund",
+        "units": 5831.55831382226,
+        "nav": 102.0803,
+        "value": 595287.2221424704
+      },
+      {
+        "fund": "BANK OF INDIA FLEXI CAP FUND",
+        "units": 17976.029207704116,
+        "nav": 33.9,
+        "value": 609387.3901411695
+      },
+      {
+        "fund": "Helios Flexi Cap Fund",
+        "units": 47482.450171485485,
+        "nav": 13.13,
+        "value": 623444.5707516045
+      }
+    ]
+  }
+]
